@@ -1,6 +1,7 @@
-#include<iostream.h>
-#include<conio.h>
-#include<math.h>
+#include<iostream>
+#include<conio>
+#include<math>
+#include<fstream>
 
 void main()
 {
